@@ -1,0 +1,8 @@
+.vscode/
+*.exe
+*.log
+*.bak
+debug
+vendor/
+*.orig
+*.pprof
