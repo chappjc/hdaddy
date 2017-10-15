@@ -11,7 +11,7 @@ import (
 
 	"github.com/chappjc/hdaddy"
 	"github.com/decred/dcrd/chaincfg"
-	"github.com/decred/dcrutil"
+	"github.com/decred/dcrd/dcrutil"
 )
 
 var xkey = flag.String("key", "", "extended key")
